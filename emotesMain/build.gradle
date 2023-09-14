@@ -25,7 +25,7 @@ dependencies {
     implementation project(':emotesAPI')
     implementation project(':executor')
     implementation project(':emotesServer')
-    implementation "dev.kosmx.player-anim:player-animation-lib-forge:1.0.2+1.18"
+    implementation "dev.kosmx.player-anim:player-animation-lib-forge:1.0.2+"
 
     compileModule project(':emotesAPI')
     compileModule project(':executor')
